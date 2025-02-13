@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1739424447236" clover="3.2.0">
-  <project timestamp="1739424447236" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1739427449080" clover="3.2.0">
+  <project timestamp="1739427449081" name="All files">
+    <metrics statements="11" coveredstatements="8" conditionals="16" coveredconditionals="9" methods="1" coveredmethods="1" elements="28" coveredelements="18" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="DiscountCalculation.js" path="C:\Users\Hp\Desktop\Unit testing\Homework_1\src\DiscountCalculation.js">
+      <metrics statements="11" coveredstatements="8" conditionals="16" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="5" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="2" type="cond" truecount="2" falsecount="2"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="11" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="14" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
   </project>
 </coverage>
